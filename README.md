@@ -57,7 +57,7 @@ Follow the steps below to run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/Anik-d07/Weekend-Getaway-Ranker
 cd WEEKEND_GETAWAY_RANKER
 2️⃣ Install Dependencies
 Ensure Python 3.9+ is installed, then run:
@@ -108,3 +108,4 @@ Top weekend destinations from Bangalore:
 137         Mumbai     Maharastra    4.480000        8.25  2.300000  10.430000
 70   Greater Noida  Uttar Pradesh    4.400000        7.85  2.000000  10.250000
 112        Kolkata    West Bengal    4.480000        5.64  1.650000   8.470000
+
